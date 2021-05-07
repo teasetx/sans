@@ -1,0 +1,32 @@
+body {
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+.were {
+    display: flex;
+    justify-content: center;
+
+}
+
+h2 {
+    font-size: 100px;
+    color: rgb(145, 56, 56);
+}
+
+.ww {
+    height: 200px;
+    padding: 20px 0px;
+    border-right: 2px solid rgb(145, 56, 56);
+}
+
+.cc {
+    border: none;
+}
+.were2{
+    width: 300px;
+    margin: 20px;
+}
+h1{
+    color: rgb(101, 99, 187);
+    font-size: 100px;
+}
